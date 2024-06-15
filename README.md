@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate with you ...
-- 📫 How to reach me, you can send an email to official.234999@gmail.com
+- 📫 How to reach me, you can send an email to Aribanifemi@gmail.com 
 
 <!---
 bignempirecodex/bignempirecodex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
